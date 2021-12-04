@@ -1,4 +1,4 @@
-__ To nejsi __  
+__To nejsi__ 
 
 Máš důvod zlobit se mnohem víc.  
 cítím tvou zlost, cítím se jak beast,  
@@ -11,7 +11,7 @@ Tak pokrč rameny, řekni já nic.
 [..] 
 	
 
-__ To nejsi II __  
+__To nejsi II__  
 
 Mluvíš o své mámě nebojácně,  
 to já jsem tu ta, komu chvěje se hlas  
