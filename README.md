@@ -1,12 +1,10 @@
-# drafts
 
-- [ ] To nejsi
-- [ ] Patron
+- [x] To nejsi
+- [x] Strážce
 - [ ] Bulhar
-- [ ] To nejsi II
+- [x] To nejsi II
 - [ ] Tchýně
 - [ ] Polednice
 - [ ] Pád
-- [ ] Polomrtví
 - [ ] Dar
-- [ ] Leatherloverka
+- [ ] Polomrtví
