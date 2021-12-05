@@ -1,15 +1,19 @@
 __To nejsi__ 
 
-Máš důvod zlobit se mnohem víc.  
+Máš důvod zlobit se mnohem víc,  
 cítím tvou zlost, cítím se jak beast,  
 neznám se, chci řvát z plných plic,  
 ty s výrazem jakoby nic...  
 Snažím se ovládat, neprovokuj mě víc.  
-Přede mnou andílek zničehonic.  
-Tak pokrč rameny, řekni já nic.  
+Přede mnou andílek zničehonic  
+pokrčí rameny, řekne já nic.  
 
-[..] 
-	
+[..]  
+
+Pohled na nevinnost těžko smažu z mysli,  
+probouzíš mou agresi snad všemi pěti smysly.  
+Ukaž svůj distanc, ten výraz odněkud znám,  
+usiluješ ať tvou zlost od vlastní nerozeznám.
 
 __To nejsi II__  
 
