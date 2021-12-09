@@ -12,7 +12,13 @@ přesto nechceš slyšet o tom, že tu s náma sedí.
 Nechceš zrovna málo, nožem pod krkem mě hladí,  
 pod lebkou mi hnízdí, roztočí celé klubko hadí.  
 
+Monologem nepřehlušíš, mluví tím, co cítím já,  
+pokud na ni beru ohled, tebe to tak nasírá.
 
+Jsem ochotná ji v sobě chvíli snášet, ne však na dva věky  
+Vysává mě, bere sílu, nejde o cucfleky.  
+
+~~Potřebuji ať vemeš si ji[..]~~  
 [..]  
 
 Znáš jedno slovo projekce pro unikátní únik,  
