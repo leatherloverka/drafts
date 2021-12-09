@@ -13,10 +13,12 @@ Nechceš zrovna málo, nožem pod krkem mě hladí,
 pod lebkou mi hnízdí, roztočí celé klubko hadí.  
 
 
-Znáš jedno slovo projekce pro unikátní únik
+[..]  
+
+Znáš jedno slovo projekce pro unikátní únik,  
 mistrovská klička kolem do vědomí průnik.  
-Zaživas ji v sobě pohřbil, nediv se že nadává..
-Tak kdo z nás si tu něco nalhává...
+Zaživas ji v sobě pohřbil, nediv se že nadává..  
+Tak kdo z nás si tu něco nalhává...  
 Nejspíš oba dva.
 
 Změna někdy těžko zřejmá, jindy mě snad ovládá,  
