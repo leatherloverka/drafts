@@ -3,7 +3,7 @@
 - [ ] [Strážce](strazce.md)
 - [ ] Bulhar
 - [x] [To nejsi II](tonejsi.md)
-- [ ] Tchýně
+- [ ] [Tchýně](tchyne.md)
 - [ ] [Polednice](polednice.md)
 - [ ] Pád
 - [ ] Dar
