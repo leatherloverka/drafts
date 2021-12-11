@@ -24,7 +24,7 @@ Oblékáš mě do své kůže pod záminkou zdánlivou,
 [TODO][^2]  
 
 Nech mě ujít jen pár kroků, nech mě si ji ošahat,  
-mysli si, že máš mě v hrsti, o tvou moc tě okrádám.  
+mysli si, že máš mě v hrsti, o tvou moc tě okrádám[^3].  
 Zdá se ti, že není možné poznat přízrak ve tmě?  
 Však já jsem přízrak, pořádně se rozlij ve mě!  
 
@@ -38,8 +38,9 @@ Nezapomeň, proč jsi tady, buď tak laskavá.
 [...][^1]  
 
 
-[^2]: svíravou
+[^2]: svíravou  
+[^3]: tajemství; to jediné; smysl
 [^1]: patron, soudce  
-  majitel, budoucí hostitel
+  majitel - budoucí hostitel
 
 
