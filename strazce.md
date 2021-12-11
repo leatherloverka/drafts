@@ -35,6 +35,9 @@ mám chuť.. pocit, že neuhlídám zvíře.
 Věřit že jsem to já je nabídka lákavá.  
 Nezapomeň, proč jsi tady, buď tak laskavá.
 
-[...]  
-~~patron, soudce... 
-majitel, budoucí hostitel.~~
+[...][^1]  
+
+
+[^1]: patron, soudce  
+  majitel, budoucí hostitel
+
