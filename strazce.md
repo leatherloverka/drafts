@@ -21,7 +21,7 @@ bacha je jak vosa,  kryj si zrak
 avšak neodháněj, jinak promění se v drak.
 
 Oblékáš mě do své kůže pod záminkou zdánlivou,  
-[TODO][^2]  
+[...][^2]  
 
 Nech mě ujít jen pár kroků, nech mě si ji ošahat,  
 mysli si, že máš mě v hrsti, o tvou moc tě okrádám[^3].  
