@@ -1,10 +1,10 @@
 
-- [ ] [To nejsi](tonejsi.md)
-- [x] Strážce
+- [x] [To nejsi](tonejsi.md)
+- [ ] [Strážce](strazce.md)
 - [ ] Bulhar
-- [x] To nejsi II
+- [x] [To nejsi II](tonejsi.md)
 - [ ] Tchýně
-- [ ] Polednice
+- [ ] [Polednice](polednice.md)
 - [ ] Pád
 - [ ] Dar
 - [ ] Polomrtví
