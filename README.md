@@ -1,5 +1,5 @@
 
-- [x] To nejsi
+- [ ] [To nejsi](tonejsi.md)
 - [x] Strážce
 - [ ] Bulhar
 - [x] To nejsi II
