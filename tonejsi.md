@@ -8,8 +8,6 @@ Snažím se ovládat, neprovokuj mě víc.
 Přede mnou andílek zničehonic  
 pokrčí rameny, řekne já nic.  
 
-[..]  
-
 Pohled na nevinnost těžko smažu z mysli,  
 probouzíš mou agresi snad všemi pěti smysly.  
 Ukaž svůj distanc, ten výraz odněkud znám,  
@@ -32,4 +30,4 @@ Tak zakřesej, ať se to ve mě utáboří!
 Povidáš, že někdo jiný se žen bojí?  
 Co kdybys mi řekl něco o té svojí...  
 Pověz mi prosím ještě jednou o své mamce,  
-podej mi tu emoci jak jehlu narkomance. 
+podej mi tu emoci jak jehlu narkomance.  
