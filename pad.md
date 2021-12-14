@@ -11,6 +11,12 @@ Má nová podoba, zdá se že tě dráždí.
 Co povídáš? že taková býti nemám?
 Věřím, že jsem psychopat,líbí se mi ženy,  
  moment jsem tak bezradná, dnes mohu ničit světy.  
+Zítra budu [..] - cokoliv si budeš přát,  
+tím vším se mohu stát, svou podobou tě budu srát...  
+
+Teď mě ale nech chvíli spát..  
+
+
 
 [..]
 
