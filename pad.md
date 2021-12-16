@@ -50,12 +50,12 @@ už vím proč mě tlačí spánky.
 Už vím co je dole,  
 za to vděčím tobě.  
 
-Sleduj lidi kolem sebe,
-osvoboď je ze svých pout,
-hrají to jen kvůli tobě,
+Sleduj lidi kolem sebe,  
+osvoboď je ze svých pout,  
+možná hrají právě kvůli tobě,  
 nech je vlastním životem plout.  
-Je to strašně těžké, to já vím,
-oni jsou něco, co fakt nejsi ty.
+Je to strašně těžké, to já vím,  
+oni jsou něco, co fakt nejsi ty.  
 
 [^1]: odměnou, vylekání
 [^2]: kabátem
