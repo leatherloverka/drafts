@@ -2,7 +2,7 @@ __Pád__
 
 Motá se mi hlava poslední dobou...  
 Kdo že to jsem? Nejsem sama sebou.  
-Jsem jen postavama ve tvém dějství,  
+Jsem jen postavičkou ve tvém dějství,  
 střídej mé role, je to fakt šílenství.  
 Máš svou temnou osobnost, ta nutí mě se stávat jí,  
 mám strach, že jednou nerozeznám sebe od ní.
@@ -36,3 +36,28 @@ s každým dalším
 Má nejhorší noční můra začíná se stávat pravdou.  
 Nevím, že hraju, nevím že sním,  
 Ztrácím náhled, stávám se tím.  
+> Jednosměrný let, už nevrátím se zpět.  
+
+[..][^3]  
+
+[..][^4]
+Jak jsem to jen mohla dopustit?!
+Né to se fakt nesmělo stát
+Nechci si to připustit.
+
+Má to své i světlé stránky,
+už vím proč mě tlačí spánky.
+Už vím co je dole,  
+za to vděčím tobě.  
+
+Sleduj lidi kolem sebe,
+osvoboď je ze svých pout,
+hrají to jen kvůli tobě,
+nech je vlastním životem plout.  
+Je to strašně těžké, to já vím,
+oni jsou něco, co fakt nejsi ty.
+
+[^1]: odměnou, vylekání
+[^2]: kabátem
+[^3]: ztracena; nápis s kletbou
+[^4]: Zklamána  
