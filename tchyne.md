@@ -38,4 +38,4 @@ Někdy mi to trochu trvá, můžeš začít slavit.
 Odcházím, ty přesvědčen, že tě budu strašit.  
 Nemám zájem, jen pochybuji, že tím tvé drama končí.
 
-Šup, spusť další iteraci.
+Šup, spusť další iteraci.  
