@@ -8,7 +8,7 @@ Máš svou temnou osobnost, ta nutí mě se stávat jí,
 mám strach, že jednou nerozeznám sebe od ní.
 
 Celý život na útesu, dolu nelze dohlédnout,[^7]
-Vichr mou vší silou cloumá, nedá se mu uniknout.  
+~~Vichr mou vší silou cloumá, nedá se mu uniknout. ~~ 
 zkouší mě co vydržím.  
 Vyčerpej mě, budu hrát líp.  
 Mluv skrze mě, co nemůžeš říct.  
@@ -33,8 +33,8 @@ s každým dalším
 
 [..]  
 
-Má nejhorší noční můra začíná se stávat pravdou,
-podezření nejsem to já neblesklo mi zavčas hlavou.  
+Má nejhorší noční můra začíná se stávat pravdou,  
+podezření nejsem to já neblesklo mi zavčas hlavou.    
 Asi se to muselo stát, přichází můj první pád.  
 Nevím, že hraju, nevím že sním,  
 ztrácím náhled, stávám se tím.  
@@ -43,7 +43,11 @@ Ukaž mi svůj nejhorší svět
 
 [..][^3]  
 
+Potom se svět rozjasní..
+Obratem panika mě zavalí.
 [..][^4]
+Přijala jsem roli jako vlastní,  
+tentokrát nebyla destruktivní.  
 Jak jsem to mohla dopustit?!  
 Né to se fakt nesmělo stát,  
 nechci si to připustit.  
