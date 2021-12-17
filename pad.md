@@ -7,8 +7,8 @@ střídej mé role, je to fakt šílenství.
 Máš svou temnou osobnost, ta nutí mě se stávat jí,  
 mám strach, že jednou nerozeznám sebe od ní.
 
-Celý život na útesu, pode mnou je..kdoví  
 Vichr mou vší silou cloumá,  
+Celý život na útesu, dolu nelze dohlédnout,  následky nelze odhadnout
 zkouší mě co vydržím.  
 Vyčerpej mě, budu hrát líp.  
 Mluv skrze mě, co nemůžeš říct.  
@@ -19,7 +19,7 @@ Nech cítit mě, co nemůžeš snýst.
 Věřím, že jsem psychopat, líbí se mi ženy,  
 moment jsem tak bezradná, dnes mohu ničit světy.  
 Zítra budu [..] - cokoliv si budeš přát,  
-tím vším se mohu stát, svou podobou tě budu srát...  
+tím vším se mohu stát, svou podobou tě budu srát...[^5]  
 
 Teď mě ale nech chvíli spát...  
 
@@ -33,20 +33,24 @@ s každým dalším
 
 [..]  
 
-Má nejhorší noční můra začíná se stávat pravdou.  
+Má nejhorší noční můra začíná se stávat pravdou,
+podezření nejsem to já neblesklo mi zavčas hlavou.  
+Asi se to muselo stát, přichází můj první pád.  
 Nevím, že hraju, nevím že sním,  
-Ztrácím náhled, stávám se tím.  
-> Jednosměrný let, už nevrátím se zpět.  
+ztrácím náhled, stávám se tím.  
+Jediný pohyb vpřed, už nevrátím se zpět.[^6]  
+Ukaž mi svůj nejhorší svět
 
 [..][^3]  
 
 [..][^4]
-Jak jsem to jen mohla dopustit?!
-Né to se fakt nesmělo stát
-Nechci si to připustit.
+Jak jsem to mohla dopustit?!  
+Né to se fakt nesmělo stát,  
+nechci si to připustit.  
 
-Má to své i světlé stránky,
-už vím proč mě tlačí spánky.
+
+Má to své i světlé stránky,  
+už vím proč mě tlačí spánky.  
 Už vím co je dole,  
 za to vděčím tobě.  
 
@@ -61,3 +65,5 @@ oni jsou něco, co fakt nejsi ty.
 [^2]: kabátem
 [^3]: ztracena; nápis s kletbou
 [^4]: Zklamána  
+[^5]: děsit či 
+[^6]: Jednosměrný let
