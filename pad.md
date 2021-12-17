@@ -7,8 +7,8 @@ střídej mé role, je to fakt šílenství.
 Máš svou temnou osobnost, ta nutí mě se stávat jí,  
 mám strach, že jednou nerozeznám sebe od ní.
 
-Vichr mou vší silou cloumá,  
-Celý život na útesu, dolu nelze dohlédnout,  následky nelze odhadnout
+Celý život na útesu, dolu nelze dohlédnout,[^7]
+Vichr mou vší silou cloumá, nedá se mu uniknout.  
 zkouší mě co vydržím.  
 Vyčerpej mě, budu hrát líp.  
 Mluv skrze mě, co nemůžeš říct.  
@@ -67,3 +67,4 @@ oni jsou něco, co fakt nejsi ty.
 [^4]: Zklamána  
 [^5]: děsit či 
 [^6]: Jednosměrný let
+[^7]: následky nelze odhadnout
