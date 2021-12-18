@@ -4,10 +4,11 @@ Motá se mi hlava poslední dobou...
 Kdo že to jsem? Nejsem sama sebou.  
 Jsem jen postavičkou ve tvém dějství,  
 střídej mé role, je to fakt šílenství.  
-Máš svou temnou osobnost, ta nutí mě se stávat jí,  
+Máš svou temnou osobnost, nutí mě se stávat jí,  
 mám strach, že jednou nerozeznám sebe od ní.
 
-Celý život na útesu, dolu nelze dohlédnout,[^7]  
+Celý život na útesu, dolu nelze dohlédnout,  
+možná je tam DID, jistě nevím, následky stěží odhadnout.  
 ~~Vichr mou vší silou cloumá, nedá se mu uniknout.~~  
 zkouší mě co vydržím.  
 Vyčerpej mě, budu hrát líp.  
@@ -70,4 +71,4 @@ oni jsou něco, co fakt nejsi ty.
 [^4]: Zklamána  
 [^5]: děsit či 
 [^6]: Jednosměrný let
-[^7]: následky nelze odhadnout
+
