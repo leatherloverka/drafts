@@ -34,24 +34,23 @@ s každým dalším
 [..]  
 
 Má nejhorší noční můra začíná se stávat pravdou,  
-podezření nejsem to já neblesklo mi zavčas hlavou.    
+podezření nejsem to já neblesklo mi zavčas hlavou.  
 Asi se to muselo stát, přichází můj první pád.  
 Nevím, že hraju, nevím že sním,  
 ztrácím náhled, stávám se tím.  
 Jediný pohyb vpřed, už nevrátím se zpět.[^6]  
-Ukaž mi svůj nejhorší svět
 
 [..][^3]  
 
 Potom se svět rozjasní..
-Obratem panika mě zavalí.
+Panika mě zavalí.
 [..][^4]
-Přijala jsem roli jako vlastní,  
-tentokrát nebyla destruktivní.  
+ 
 Jak jsem to mohla dopustit?!  
 Né to se fakt nesmělo stát,  
 nechci si to připustit.  
-
+Přijala jsem roli jako vlastní,  
+... nebyla destruktivní.  
 
 Má to své i světlé stránky,  
 už vím proč mě tlačí spánky.  
