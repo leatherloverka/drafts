@@ -7,7 +7,7 @@
 - [ ] [Polednice](polednice.md)
 - [ ] [Pád](pad.md)
 - [ ] Dar
-- [ ] Polomrtví
+- [ ] [Polomrtví](polomrtvi.md)
 
 [__To nejsi__](tonejsi.md)
 
