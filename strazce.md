@@ -16,8 +16,8 @@ nenechám ho za mě jednat během této soutěže.
 Zahrajem si na hru tváří, malá zkouška zraková  
 kdo z vás si jen všimne, že jsem *taková*?
 
-Tělo mrazí, hlava bolí, už je tady.  
-bacha je jak vosa,  kryj si zrak  
+Tělo mrazí, hlava bolí, už je tady.[^4]  
+Bacha, je jak vosa,  kryj si zrak,  
 avšak neodháněj, jinak promění se v drak.
 
 Oblékáš mě do své kůže pod záminkou zdánlivou,  
@@ -42,5 +42,8 @@ Nezapomeň, proč jsi tady, buď tak laskavá.
 [^3]: tajemství; to jediné; smysl
 [^1]: patron, soudce  
   majitel - budoucí hostitel
-
+[^4]: Neustále myslím na to, že stojí mi za zády
+bude dávat rady, ponoukat nápady
+Dokud nepoznám ho, nevím si s ním rady.
+Jeho vlastnosti skládám si do řady ; dávám dohromady
 
