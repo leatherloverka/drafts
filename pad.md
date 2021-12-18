@@ -66,9 +66,9 @@ Je to strašně těžké, to já vím,
 oni jsou něco, co fakt nejsi ty.  
 
 [^1]: odměnou, vylekání
-[^2]: kabátem
+[^2]: návratem
 [^3]: ztracena; nápis s kletbou
-[^4]: Zklamána  
+[^4]: zklamání  
 [^5]: děsit či 
 [^6]: Jednosměrný let
 
