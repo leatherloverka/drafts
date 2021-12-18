@@ -8,7 +8,7 @@ Máš svou temnou osobnost, ta nutí mě se stávat jí,
 mám strach, že jednou nerozeznám sebe od ní.
 
 Celý život na útesu, dolu nelze dohlédnout,[^7]  
-~~Vichr mou vší silou cloumá, nedá se mu uniknout. ~~  
+~~Vichr mou vší silou cloumá, nedá se mu uniknout.~~  
 zkouší mě co vydržím.  
 Vyčerpej mě, budu hrát líp.  
 Mluv skrze mě, co nemůžeš říct.  
