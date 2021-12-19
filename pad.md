@@ -10,7 +10,7 @@ mám strach, že jednou nerozeznám sebe od ní.
 Celý život na útesu, dolu nelze dohlédnout,  
 možná je tam DID, jistě nevím, následky stěží odhadnout.  
 ~~Vichr mou vší silou cloumá, nedá se mu uniknout.~~  
-zkouší mě co vydržím.  
+~~zkouší mě co vydržím.~~  
 Vyčerpej mě, budu hrát líp.  
 Mluv skrze mě, co nemůžeš říct.  
 Nech cítit mě, co nemůžeš snýst.  
@@ -29,7 +29,7 @@ To je moje zaměstnání,
 mou mzdou je velké vyčerpání[^1].  
 Dostávám plat obratem  
 s každým dalším kabátem[^2].  
-Za to, ze stojím na výběžku skalnatém  
+Stojím na výběžku skalnatém  
 s každým dalším
 
 [..]  
@@ -37,13 +37,13 @@ s každým dalším
 Má nejhorší noční můra začíná se stávat pravdou,  
 podezření nejsem to já neblesklo mi zavčas hlavou.  
 Asi se to muselo stát, přichází můj první pád.  
-Nevím, že hraju, nevím že sním,  
+Nevím, že hraji, nevím že sním,  
 ztrácím náhled, stávám se tím.  
 Jediný pohyb vpřed, už nevrátím se zpět.[^6]  
 
 [..][^3]  
 
-Potom se svět rozjasní..
+~~Potom se svět rozjasní..  ~~
 Panika mě zavalí.
 [..][^4]
  
