@@ -9,7 +9,7 @@ bez pochopení pro druhého snažíte se přehlušit.
 
 Jak zázrakem víš, co mi říká, strašně ti to vadí,  
 přesto nechceš slyšet o tom, že tu s náma sedí.  
-Nechceš zrovna málo, nožem pod krkem mě hladí,  
+Nechceš málo, nožem pod krkem mě hladí,  
 pod lebkou mi hnízdí, roztočí celé klubko hadí.  
 
 Monologem nepřehlušíš, mluví tím, co cítím já,  
