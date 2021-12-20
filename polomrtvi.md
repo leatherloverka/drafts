@@ -21,7 +21,7 @@ Právě mě zasáhla tvá střela.
 Sakra kolik kilo měla?  
 Pohled na nevinnost sama,  
 kdo z nás dvou to dělá?  
-Nezřetelné pousmání..fakt?  
+Nezřetelné pousmání... fakt?  
 To se mi snad musí zdát!  
 
 [..]
@@ -32,4 +32,3 @@ Spletla jsem se, upřesním to malou opravou,
 sytíte mě svojí vlastní nestrávenou popravou.  
 
 
-[^1] jste na mě tak fixovaný
