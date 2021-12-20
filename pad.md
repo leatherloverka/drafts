@@ -36,10 +36,10 @@ s každým dalším
 
 Má nejhorší noční můra začíná se stávat pravdou,  
 podezření nejsem to já neblesklo mi zavčas hlavou.  
+Jediný pohyb vpřed, už nevrátím se zpět.[^6]  
 Asi se to muselo stát, přichází můj první pád.  
 Nevím, že hraji, nevím že sním,  
 ztrácím náhled, stávám se tím.  
-Jediný pohyb vpřed, už nevrátím se zpět.[^6]  
 
 [..][^3]  
 
