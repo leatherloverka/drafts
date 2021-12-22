@@ -1,6 +1,7 @@
 __Tchýně__
 
 [..]
+[^2]
 
 Nemám ráda, když dva mluví, jste opačných názorů,  
 jeden urputnějši než ten druhý, jsem středem vašich rozporů.  
@@ -30,8 +31,8 @@ Nejspíš oba dva.
 
 Změna někdy těžko zřejmá, jindy mě snad ovládá,  
 to když formuje mě do role, kterou nenechám žít já.  
-Odpust mi, že brala jsem vás jako jeden celek.  
-Jsou křivdy co se nepromíjí, toto je jen zlomek.
+Odpust mi to - brala jsem vás jako jeden celek.  
+Jsou křivdy co se nepromíjí, toto je jen zlomek[^1].
 
 Už to chápu, já jsem ona, chceš se jí fakt zbavit.  
 Někdy mi to trochu trvá, můžeš začít slavit.  
@@ -39,3 +40,6 @@ Odcházím, ty přesvědčen, že tě budu strašit.
 Nemám zájem, jen pochybuji, že tím tvé drama končí.
 
 Šup, spusť další iteraci.  
+
+[^1]: jejich vzorek  
+[^2]: pořád žvaní, snad tu hubu nezastaví  
