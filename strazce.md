@@ -43,9 +43,9 @@ mám chuť.. pocit, že neuhlídám zvíře.
 Věřit že jsem to já je nabídka lákavá.  
 Nezapomeň, proč jsi tady, buď tak laskavá.
 
-
 Andělíčku, strážce můj,  
 nikam nechoď, chvíli stůj.  
+
 [...]
 [^9]  
 
