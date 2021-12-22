@@ -18,7 +18,7 @@ kdo z vás si jen všimne, že jsem *taková*?
 
 Tělo mrazí, hlava bolí, už je tady.  
 Není vidět, je za mými zády.[^4]  
-Dokud nepoznám ho, nevím si s ním rady,  
+Dokud nepoznám[^12] ho, nevím si s ním rady,  
 vlastní změny skládám si do řady.[^6]  
 
 Bacha, je jak vosa, kryj si zrak,  
@@ -69,4 +69,5 @@ bude dávat rady, ponoukat nápady
  [^9]: nápověda; jak to dělá?
  [^10]: Ukaž mi to nejhorší,  
 zlo se v dobro otočí.  
-[^11]: když popíšu ho
+[^11]: když popíšu ho  
+[^12]: Neznám-li  
