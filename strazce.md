@@ -27,14 +27,16 @@ Dám mu jméno, promění se v prach[^11]
 Proklouzne mi, bude ve mě řádit vrah?[^5]  
 
 Oblékáš mě do své kůže pod záminkou zdánlivou,  
-[...][^2]  
+[...]
+[^2]  
 
 Nech mě ujít jen pár kroků, pár informací nastřádám[^7].  
 mysli si, že máš mě v hrsti, o tvou moc tě okrádám[^3].  
 Zdá se ti, že není možné poznat přízrak ve tmě?  
 Však já jsem přízrak, pořádně se rozlij ve mě!
 
-[...][^8]
+[...]
+[^8]
 
 Jsem jak pánem celé říše,  
 mám chuť.. pocit, že neuhlídám zvíře.  
@@ -42,9 +44,10 @@ Věřit že jsem to já je nabídka lákavá.
 Nezapomeň, proč jsi tady, buď tak laskavá.
 
 
-Anělíčku strážce můj,
-nikam nechoď, chvíli stůj.
-[^9]
+Andělíčku, strážce můj,  
+nikam nechoď, chvíli stůj.  
+[...]
+[^9]  
 
 Už vím co cítí, chce, k čemu je nabádá.
 [...]
