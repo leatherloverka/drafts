@@ -19,7 +19,8 @@ pokud na ni beru ohled, tebe to tak nasírá.
 Jsem ochotná ji v sobě chvíli snášet, ne však na dva věky  
 Vysává mě, bere sílu, nejde o cucfleky.  
 
-~~Potřebuji ať vemeš si ji[..]~~  
+~~Potřebuji ať vemeš si ji~~  
+~~Tak poslouchej...~~  
 [..]  
 
 Znáš jedno slovo projekce pro unikátní únik,  
