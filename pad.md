@@ -30,7 +30,7 @@ mou mzdou je velké vyčerpání[^1].
 Dostávám plat obratem  
 s každým dalším kabátem[^2].  
 Stojím na výběžku skalnatém  
-s každým dalším
+s vzezřením pro tebe hambatém.  
 
 [..]  
 
@@ -57,6 +57,16 @@ Má to své i světlé stránky,
 už vím proč mě tlačí spánky.  
 Už vím co je dole,  
 za to vděčím tobě.  
+
+Nemusím mít strach ze svého selhání,  
+prý je to u tohoto jevu normální.  
+Není to nemoc, pouze ztráta kontroly  
+nad těmito zvláštními hovory.  
+
+Když neuspěji, nebudu muset chodit o holi  
+Netíží mě, že se navždy zblázním pro roli,  
+už neděsí mě nést to, ať je to cokoli.  
+Stále to však nemám ráda, co trochu pokory...
 
 Sleduj lidi kolem sebe,  
 osvoboď je ze svých pout,  
