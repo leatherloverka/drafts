@@ -19,7 +19,7 @@ Nech cítit mě, co nemůžeš snýst.
 
 Věřím, že jsem psychopat, líbí se mi ženy,  
 moment jsem tak bezradná, dnes mohu ničit světy.  
-Zítra budu [..] - cokoliv si budeš přát,  
+Zítra budu třeba zebra - cokoliv si budeš přát,
 tím vším se mohu stát, svou podobou tě budu srát...[^5]  
 
 Teď mě ale nech chvíli spát...  
@@ -42,6 +42,11 @@ Nevím, že hraji, nevím že sním,
 ztrácím náhled, stávám se tím.  
 
 [..][^3]  
+Ztracená v údolí bloudím tou mlhou,
+jak náměsičná, na čele nápis s mou kletbou
+pro ostatní nečitelný, ty jediný v něm umíš číst
+Jen ty víš jak ji prolomit
+Ukaž na mě, řekni kdo jsem.
 
 ~~Potom se svět rozjasní..  ~~
 Panika mě zavalí.
@@ -79,6 +84,6 @@ oni jsou něco, co fakt nejsi ty.
 [^2]: návratem
 [^3]: ztracena; nápis s kletbou
 [^4]: zklamání  
-[^5]: děsit či 
+[^5]: děsit či srát
 [^6]: Jednosměrný let
 
