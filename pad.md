@@ -19,7 +19,7 @@ Nech cítit mě, co nemůžeš snýst.
 
 Věřím, že jsem psychopat, líbí se mi ženy,  
 moment jsem tak bezradná, dnes mohu ničit světy.  
-Zítra budu třeba zebra - cokoliv si budeš přát,
+Zítra budu třeba zebra - cokoliv si budeš přát,  
 tím vším se mohu stát, svou podobou tě budu srát...[^5]  
 
 Teď mě ale nech chvíli spát...  
