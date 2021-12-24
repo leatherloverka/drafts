@@ -10,7 +10,7 @@ Připravuješ mě na život - to je tvůj výklad.
 Za mě jen alibismus, ale co naplat.  
 Drásej mi slabiny, bude ti líp,  
 tady jsi vynechal spokojený?  
-[^1]
+[^3]
 
 Něco tu nehraje...  
 To jste tak zlí?  
@@ -27,7 +27,7 @@ To se mi snad musí zdát!
 [..]
 
 Chceš mě trestat, máš na mě zlost?[^1]  
-Nech mě prožít svou minulost.[^2] 
+Nech mě prožít svou minulost.[^2]  
 To je ale flashback zvláštní...  
 Příjmu ji hned za svou vlastní.  
 
@@ -38,3 +38,4 @@ sytíte mě svojí vlastní nestrávenou popravou.
 
 [^1]: Jsi ve stresu, máš na mě zlost
 [^2]: Přehraj mi v hlavě
+[^3]: (jste) na mě tak fixovaný
