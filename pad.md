@@ -6,14 +6,7 @@ Jsem jen postavičkou ve tvém dějství,
 střídej mé role, je to fakt šílenství.  
 Máš svou temnou osobnost, nutí mě se stávat jí,  
 mám strach, že jednou nerozeznám sebe od ní.
-
-Celý život na útesu, dolu nelze dohlédnout,  
-možná je tam DID, jistě nevím, následky stěží odhadnout.  
-~~Vichr mou vší silou cloumá, nedá se mu uniknout.~~  
-~~zkouší mě co vydržím.~~  
-Vyčerpej mě, budu hrát líp.  
-Mluv skrze mě, co nemůžeš říct.  
-Nech cítit mě, co nemůžeš snýst.  
+ 
 
 [..]  
 
@@ -32,6 +25,11 @@ s každým dalším kabátem[^2].
 Stojím na výběžku skalnatém  
 s vzezřením pro tebe hambatém.  
 
+Celý život na útesu, dolu nelze dohlédnout,  
+možná je tam DID, jistě nevím, předem stěží odhadnout.  
+Vyčerpej mě, budu hrát líp.  
+Mluv skrze mě, co nemůžeš říct.  
+Nech cítit mě, co nemůžeš snýst.
 [..]  
 
 Má nejhorší noční můra začíná se stávat pravdou,  
@@ -43,13 +41,13 @@ ztrácím náhled, stávám se tím.
 
 [..][^3]  
 Ztracená v údolí bloudím tou mlhou,
-jak náměsičná, na čele nápis s mou kletbou
-pro ostatní nečitelný, ty jediný v něm umíš číst
-Jen ty víš jak ji prolomit
-Ukaž na mě, řekni kdo jsem.
+jak náměsičná, na čele nápis s mou kletbou. 
+pro ostatní nečitelný, ty jediný v něm umíš číst,  
+jen ty víš jak ji prolomit  
+Ukaž na mě, řekni kdo jsem.  
 
-~~Potom se svět rozjasní..  ~~
-Panika mě zavalí.
+Potom se mi rozjasní,
+panika mě zavalí.
 [..][^4]
  
 Jak jsem to mohla dopustit?!  
@@ -72,6 +70,8 @@ Když neuspěji, nebudu muset chodit o holi
 Netíží mě, že se navždy zblázním pro roli,  
 už neděsí mě nést to, ať je to cokoli.  
 Stále to však nemám ráda, co trochu pokory...
+
+---
 
 Sleduj lidi kolem sebe,  
 osvoboď je ze svých pout,  
