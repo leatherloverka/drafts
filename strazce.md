@@ -49,7 +49,8 @@ nikam nechoď, chvíli stůj.
 [...]
 [^9]  
 
-Už vím co cítí, chce, k čemu je nabádá.
+Už vím co cítí, chce, k čemu je nabádá.  
+Už vím jak je ovládá.
 [...]
 [^1]  
 
