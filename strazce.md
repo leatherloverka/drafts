@@ -26,10 +26,8 @@ avšak neodháněj, jinak promění se v drak.
 Dám mu jméno, promění se v prach[^11]  
 Proklouzne mi, bude ve mě řádit vrah?[^5]  
 
-Oblékáš mě do své kůže pod záminkou zdánlivou,  
-[...]
-[^2]  
-
+Měnit mou osobnost je tvou největší zálibou,  
+oblékáš mě do své kůže pod záminkou zdánlivou.[^2]  
 Nech mě ujít jen pár kroků, pár informací nastřádám[^7].  
 mysli si, že máš mě v hrsti, o tvou moc tě okrádám[^3].  
 Zdá se ti, že není možné poznat přízrak ve tmě?  
@@ -37,6 +35,8 @@ Však já jsem přízrak, pořádně se rozlij ve mě!
 
 [...]
 [^8]
+Z poloviny jsem jen tebou, z poloviny jsem to já,  
+Bojím se, že premůžeš mě - představa hrozná...
 
 Jsem jak pánem celé říše,  
 mám chuť.. pocit, že neuhlídám zvíře.  
@@ -56,7 +56,8 @@ Už vím co cítí, chce, k čemu je nabádá.
 [^1]: patron, soudce  
   majitel - budoucí hostitel
 [^2]: svíravou  
-[^3]: tajemství; to jediné; smysl
+[^3]: víš, zrovna tě okrádám/zrovinka..
+tajemství; to jediné; smysl
 
 [^4]:  Myslím na..; stojí mi za zády
 bude dávat rady, ponoukat nápady
