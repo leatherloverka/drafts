@@ -26,7 +26,7 @@ avšak neodháněj, jinak promění se v drak.
 Dám mu jméno, promění se v prach[^11]  
 Proklouzne mi, bude ve mě řádit vrah?[^5]  
 
-Měnit mou osobnost je tvou největší zálibou,  
+Měnit mi osobnost je tvojí velkou zálibou,  
 oblékáš mě do své kůže pod záminkou zdánlivou.[^2]  
 Nech mě ujít jen pár kroků, pár informací nastřádám[^7].  
 mysli si, že máš mě v hrsti, o tvou moc tě okrádám[^3].  
@@ -50,12 +50,12 @@ nikam nechoď, chvíli stůj.
 [^9]  
 
 Už vím co cítí, chce, k čemu je nabádá.  
-Už vím jak je ovládá.
+Už vím jak je ovládá.  
 [...]
 [^1]  
 
 [^1]: patron, soudce  
-  majitel - budoucí hostitel
+  majitel - démonův budoucí hostitel
 [^2]: svíravou  
 [^3]: víš, zrovna tě okrádám/zrovinka..
 tajemství; to jediné; smysl
