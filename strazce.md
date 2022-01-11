@@ -23,7 +23,7 @@ vlastní změny skládám si do řady.[^6]
 
 Bacha, je jak vosa, kryj si zrak,  
 avšak neodháněj, jinak promění se v drak.  
-Dám mu jméno, promění se v prach[^11]  
+Dám mu jméno, obrátí se v prach[^11]  
 Proklouzne mi, bude ve mě řádit vrah?[^5]  
 
 Měnit mi osobnost je tvojí velkou zálibou,  
@@ -37,6 +37,8 @@ Však já jsem přízrak, pořádně se rozlij ve mě!
 [^8]
 Z poloviny jsem jen tebou, z poloviny jsem to já,  
 Bojím se, že premůžeš mě - představa hrozná...
+Nechci navždy zešílet, nesmím se ani hnout.
+Nechci jak vy dopadnout.[^13]
 
 Jsem jak pánem celé říše,  
 mám chuť.. pocit, že neuhlídám zvíře.  
@@ -53,6 +55,15 @@ Už vím co cítí, chce, k čemu je nabádá.
 Už vím jak je ovládá.  
 [...]
 [^1]  
+Není potřeba jediný čin,
+přesto ho někdo v mém těle zmerčí.
+To majitel - démonův budoucí hostitel.
+
+Kdy to bude? Nemám tucha.
+Zítra, za pět let.
+Netěším se, nepozná li ducha,
+V jeho podání to bude strašný úlet.
+
 
 [^1]: patron, soudce  
   majitel - démonův budoucí hostitel
@@ -73,3 +84,5 @@ bude dávat rady, ponoukat nápady
 zlo se v dobro otočí.  
 [^11]: když popíšu ho  
 [^12]: Neznám-li  
+[^13]: Před každym pohybem zda jsem to já rozhodnout
+
