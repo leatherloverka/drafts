@@ -36,9 +36,9 @@ Však já jsem přízrak, pořádně se rozlij ve mě!
 
 [...]
 [^8]
-Nechci navždy zešílet, nesmím se ani hnout.
-Před každičkým pohybem zda jsem to já rozhodnout.
-Nechci jak vy dopadnout.[^13]
+Nechci navždy zešílet, nesmím se ani hnout.  
+Před každičkým pohybem zda jsem to já rozhodnout.  
+Nechci jak vy dopadnout.[^13]  
 Z poloviny jsem jen tebou, z poloviny jsem to já,  
 bojím se, že premůžeš mě - představa hrozná...
 
@@ -56,14 +56,14 @@ Už vím co cítí, chce, k čemu je nabádá.
 Už vím jak je ovládá.  
 [...]
 [^1]  
-Není potřeba jediný čin,
-přesto ho někdo v mém těle zmerčí.
-To majitel - démonův budoucí hostitel.
+Není potřeba jediný čin,  
+přesto ho někdo v mém těle zmerčí.  
+To majitel - démonův budoucí hostitel.  
 
 Kdy to bude? Nemám tucha.  
 Zítra.. za pět let...  
 Netěším se, nepozná-li v sobě ducha,
-V jeho podání to bude strašný úlet.
+v jeho podání to bude strašný úlet.
 
 
 [^1]: patron, soudce  
