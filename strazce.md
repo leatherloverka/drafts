@@ -27,6 +27,7 @@ Dám mu jméno, obrátí se v prach[^11]
 Proklouzne mi, bude ve mě řádit vrah?[^5]  
 
 Měnit mi osobnost je tvojí velkou zálibou,  
+Měnit mojí osobnost je tvojí velkou zálibou,  
 oblékáš mě do své kůže pod záminkou zdánlivou.[^2]  
 Nech mě ujít jen pár kroků, pár informací nastřádám[^7].  
 mysli si, že máš mě v hrsti, o tvou moc tě okrádám[^3].  
@@ -35,10 +36,11 @@ Však já jsem přízrak, pořádně se rozlij ve mě!
 
 [...]
 [^8]
-Z poloviny jsem jen tebou, z poloviny jsem to já,  
-Bojím se, že premůžeš mě - představa hrozná...
 Nechci navždy zešílet, nesmím se ani hnout.
+Před každičkým pohybem zda jsem to já rozhodnout.
 Nechci jak vy dopadnout.[^13]
+Z poloviny jsem jen tebou, z poloviny jsem to já,  
+bojím se, že premůžeš mě - představa hrozná...
 
 Jsem jak pánem celé říše,  
 mám chuť.. pocit, že neuhlídám zvíře.  
@@ -47,7 +49,6 @@ Nezapomeň, proč jsi tady, buď tak laskavá.
 
 Andělíčku, strážce můj,  
 nikam nechoď, chvíli stůj.  
-
 [...]
 [^9]  
 
@@ -59,9 +60,9 @@ Není potřeba jediný čin,
 přesto ho někdo v mém těle zmerčí.
 To majitel - démonův budoucí hostitel.
 
-Kdy to bude? Nemám tucha.
-Zítra, za pět let.
-Netěším se, nepozná li ducha,
+Kdy to bude? Nemám tucha.  
+Zítra.. za pět let...  
+Netěším se, nepozná-li v sobě ducha,
 V jeho podání to bude strašný úlet.
 
 
@@ -84,5 +85,6 @@ bude dávat rady, ponoukat nápady
 zlo se v dobro otočí.  
 [^11]: když popíšu ho  
 [^12]: Neznám-li  
-[^13]: Před každym pohybem zda jsem to já rozhodnout
+[^13]: Pokud nechci zešílet
+Děsí mě představa, že mě jednou zdolá
 

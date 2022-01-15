@@ -33,7 +33,7 @@ Nejspíš oba dva.
 Změna někdy těžko zřejmá, jindy mě snad ovládá,  
 to když formuje mě do role, kterou nenechám žít já.  
 Odpust mi to - brala jsem vás jako jeden celek.  
-Jsou křivdy co se nepromíjí, toto je jen zlomek[^1].
+Jsou křivdy co se nepromíjí, to je jejich vzorek[^1].
 
 Už to chápu, já jsem ona, chceš se jí fakt zbavit.  
 Někdy mi to trochu trvá, můžeš začít slavit.  
@@ -42,5 +42,5 @@ Nemám zájem, jen pochybuji, že tím tvé drama končí.
 
 Šup, spusť další iteraci.  
 
-[^1]: jejich vzorek  
+[^1]: jenom zlomek 
 [^2]: pořád žvaní, snad tu hubu nezastaví  
