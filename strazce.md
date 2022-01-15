@@ -26,7 +26,6 @@ avšak neodháněj, jinak promění se v drak.
 Dám mu jméno, obrátí se v prach[^11]  
 Proklouzne mi, bude ve mě řádit vrah?[^5]  
 
-Měnit mi osobnost je tvojí velkou zálibou,  
 Měnit mojí osobnost je tvojí velkou zálibou,  
 oblékáš mě do své kůže pod záminkou zdánlivou.[^2]  
 Nech mě ujít jen pár kroků, pár informací nastřádám[^7].  
