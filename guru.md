@@ -1,13 +1,12 @@
-__Guru__
+__Guru__  
+
 Myslím si, že do mě vkládáš části osobnosti,  
-že mě silou mysli strkáš do propasti.  
+Myslím si, že mě silou mysli strkáš do propasti.  
 Má to prosté vysvětlení - jsem křížencem  
 oligarchy s šílencem.  
 
 Cítím se jak Hurvínek, ovládá mě tvůrce.  
 Vyhovím, péruji na gumové šňůrce.  
-Vždy když už si myslím, že ji na sobě nemám  
-cítím pohyb znovu... tohle vážně nedám.  
 
 [..]  
 
