@@ -9,20 +9,21 @@ tak jak proboha víš...!?!
 Připravuješ mě na život - to je tvůj výklad.  
 Za mě jen alibismus, ale co naplat.  
 Drásej mi slabiny, bude ti líp,  
-tady jsi vynechal spokojený?  
+Tady jsi vynechal. Spokojený?  
 [^3]
 
 Něco tu nehraje...  
 To jste tak zlí?  
 
-[Depardieu]  
-
 Právě mě zasáhla tvá střela.  
 Sakra kolik kilo měla?  
 Pohled na nevinnost sama,  
 kdo z nás dvou to dělá?  
-Nezřetelné pousmání... fakt?  
-To se mi snad musí zdát!  
+
+To bylo fakt pousmání?
+Najednou jsi k nepoznání.
+Přiznals, žes mi ublížil schválně.
+To nemůžeš myslet vážně!?
 
 [..]
 
@@ -40,3 +41,4 @@ sytíte mě svojí vlastní nestrávenou popravou.
 [^2]: Přehraj mi v hlavě
 [^3]: (jste) na mě tak fixovaný
 [^4]: Příjmu ji hned za svou vlastní
+
