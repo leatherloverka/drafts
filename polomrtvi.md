@@ -20,10 +20,10 @@ Sakra kolik kilo měla?
 Pohled na nevinnost sama,  
 kdo z nás dvou to dělá?  
 
-To bylo fakt pousmání?
-Najednou jsi k nepoznání.
-Přiznals, žes mi ublížil schválně.
-To nemůžeš myslet vážně!?
+To bylo fakt pousmání?  
+Najednou jsi k nepoznání.  
+Přiznals, žes mi ublížil schválně,  
+to nemůžeš myslet vážně!?  
 
 [..]
 
