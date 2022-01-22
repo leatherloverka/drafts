@@ -8,3 +8,4 @@
 - [ ] [Pád](pad.md)
 - [ ] Dar
 - [ ] [Polomrtví](polomrtvi.md)
+- [ ] [Guru](guru.md)
