@@ -21,6 +21,7 @@ Není vidět, je za mými zády.[^4]
 Dokud nepoznám[^12] ho, nevím si s ním rady,  
 vlastní změny skládám si do řady.[^6]  
 
+
 Bacha, je jak vosa, kryj si zrak,  
 avšak neodháněj, jinak promění se v drak.  
 Dám mu jméno, obrátí se v prach[^11]  

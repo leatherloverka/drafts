@@ -19,9 +19,5 @@ z mého úhlu mě chceš dávit.
 
 Divíš se, že chci se stranit?  
 Zkus nás příliš neporanit.  
-Věř mi, žádná tady není.  
-Nebezpečný je jen tvůj strach z ní.[^1]  
-
-
-[^1]: jediným nebezpečím jsi tu ty.
-
+Věř mi, žádná tady není...  
+Nebezpečný je jen tvůj strach z ní.  
