@@ -4,7 +4,7 @@
 - [ ] Bulhar
 - [x] [To nejsi II](tonejsi.md)
 - [ ] [Tchýně](tchyne.md)
-- [ ] [Polednice](polednice.md)
+- [X] [Polednice](polednice.md)
 - [ ] [Pád](pad.md)
 - [ ] Dar
 - [ ] [Polomrtví](polomrtvi.md)
