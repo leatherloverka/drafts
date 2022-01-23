@@ -7,6 +7,7 @@ střídej mé role, je to fakt šílenství.
 Máš svou temnou osobnost, nutí mě se stávat jí,  
 mám strach, že jednou nerozeznám sebe od ní.
  
+Ok, beru, ale rozhodni se projednou.
 
 [..]  
 
@@ -23,7 +24,7 @@ mou mzdou je velké vyčerpání[^1].
 Dostávám plat obratem  
 s každým dalším kabátem[^2].  
 Stojím na výběžku skalnatém  
-s vzezřením pro tebe hambatém.  
+s vzezřením pro tebe hambatém.
 
 Celý život na útesu, dolu nelze dohlédnout,  
 možná je tam DID, jistě nevím, předem stěží odhadnout.  
@@ -36,25 +37,28 @@ Má nejhorší noční můra začíná se stávat pravdou,
 podezření nejsem to já neblesklo mi zavčas hlavou.  
 Jediný pohyb vpřed, už nevrátím se zpět.[^6]  
 Asi se to muselo stát, přichází můj první pád.  
-Nevím, že hraji, nevím že sním,  
-ztrácím náhled, stávám se tím.  
 
-[..][^3]  
-Ztracená v údolí bloudím tou mlhou,
-jak náměsičná, na čele nápis s mou kletbou. 
-pro ostatní nečitelný, ty jediný v něm umíš číst,  
-jen ty víš jak ji prolomit  
+Nevím, že hraji, nevím, že sním,  
+ztrácím náhled, stávám se tím.
+Plyne den za dnem, já ne a ne se vzbudit
+ideální moment začít mě tiše soudit.
+
+[..]
+Ztracená v údolí bloudím tou mlhou,  
+jak náměsičná, na čele nápis s mou kletbou.  
+Pro ostatní nečitelný, ty jediný v něm umíš číst,  
+jen ty víš jak ji prolomit.  
 Ukaž na mě, řekni kdo jsem.  
 
 Potom se mi rozjasní,
 panika mě zavalí.
-[..][^4]
- 
+[..][^4]  
+
 Jak jsem to mohla dopustit?!  
 Né to se fakt nesmělo stát,  
 nechci si to připustit.  
 Přijala jsem roli jako vlastní,  
-... nebyla destruktivní.  
+... nebyla destruktivní.[^7]  
 
 Má to své i světlé stránky,  
 už vím proč mě tlačí spánky.  
@@ -86,4 +90,5 @@ oni jsou něco, co fakt nejsi ty.
 [^4]: zklamání  
 [^5]: děsit či srát
 [^6]: Jednosměrný let
-
+[^7]: hlídala jsem jen ty destruktivní  
+      démon není vždycky...?
