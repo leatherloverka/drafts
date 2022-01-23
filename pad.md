@@ -6,8 +6,6 @@ Jsem jen postavičkou ve tvém dějství,
 střídej mé role, je to fakt šílenství.  
 Máš svou temnou osobnost, nutí mě se stávat jí,  
 mám strach, že jednou nerozeznám sebe od ní.
- 
-Ok, beru, ale rozhodni se projednou.
 
 [..]  
 
@@ -18,7 +16,7 @@ tím vším se mohu stát, svou podobou tě budu srát...[^5]
 
 Teď mě ale nech chvíli spát...  
 
-Na úkor ___, splním libovolné přání.  
+Na úkor ___, splním nevyřčené[^8] přání.  
 To je moje zaměstnání,  
 mou mzdou je velké vyčerpání[^1].  
 Dostávám plat obratem  
@@ -39,11 +37,12 @@ Jediný pohyb vpřed, už nevrátím se zpět.[^6]
 Asi se to muselo stát, přichází můj první pád.  
 
 Nevím, že hraji, nevím, že sním,  
-ztrácím náhled, stávám se tím.
-Plyne den za dnem, já ne a ne se vzbudit
+ztrácím náhled, stávám se tím.  
+Plyne den za dnem, já ne a ne se vzbudit  
 ideální moment začít mě tiše soudit.
 
-[..]
+[..]  
+
 Ztracená v údolí bloudím tou mlhou,  
 jak náměsičná, na čele nápis s mou kletbou.  
 Pro ostatní nečitelný, ty jediný v něm umíš číst,  
@@ -92,3 +91,4 @@ oni jsou něco, co fakt nejsi ty.
 [^6]: Jednosměrný let
 [^7]: hlídala jsem jen ty destruktivní  
       démon není vždycky...?
+[^8]: libovolné
