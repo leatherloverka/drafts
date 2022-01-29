@@ -21,7 +21,7 @@ přestaň bodat mou panenku voodoo.
 
 Cítím silnou úzkost, když se do mé mysli mísíš,  
 Nevím jak to děláš[^1], ale tohle přece nesmíš.  
-Začínám nám mít pochybnosti o mém psychickém zdraví,  
+Začínám nám mít pochybnosti o mém duševním zdraví,  
 když mi zrovna dáváš líznout svého prožívání.  
 
 Musí to být pro tebe hrozné, ale prosím nech mě být.  
