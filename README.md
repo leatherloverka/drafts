@@ -10,4 +10,5 @@
 - [ ] [Moon](moon.md)
 - [ ] [Polomrtví](polomrtvi.md)
 - [ ] [Guru](guru.md)
+- [ ] [Mozkomor](mozkomor.md)
 
