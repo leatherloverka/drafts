@@ -29,11 +29,12 @@ Měnit mojí osobnost je tvojí velkou zálibou,
 oblékáš mě do své kůže pod záminkou zdánlivou.[^2]  
 Nech mě ujít jen pár kroků, pár informací nastřádám[^7].  
 mysli si, že máš mě v hrsti, přesně tím tě okrádám[^3].  
-Zdá se ti, že není možné poznat přízrak ve tmě? 
+Zdá se ti, že není možné poznat přízrak ve tmě?   
 Však já jsem přízrak, pořádně se rozlij ve mě!
 
 [...]
-[^8]
+[^8]  
+
 Nechci navždy zešílet, nesmím se ani hnout.  
 Před každičkým pohybem zda jsem to já rozhodnout.  
 Nechci jak vy dopadnout.[^13]  
@@ -47,13 +48,16 @@ Nezapomeň, proč jsi tady, buď tak laskavá.
 
 Andělíčku, strážce můj,  
 nikam nechoď, chvíli stůj.  
+
 [...]
 [^9]  
 
 Už vím co cítí, chce, k čemu je nabádá.  
 Už vím jak je ovládá.  
+
 [...]
 [^1]  
+
 Není potřeba jediný čin,  
 přesto ho někdo v mém těle zmerčí.  
 To majitel - démonův budoucí hostitel.  
