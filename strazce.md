@@ -1,6 +1,5 @@
  __Strážce__
 
-
 Andělíčku, můj strážníčku,  
 opatruj mi mou dušičku,  
 opatruj ji ve dne v noci,  
@@ -21,7 +20,6 @@ Není vidět, je za mými zády.[^4]
 Dokud nepoznám[^12] ho, nevím si s ním rady,  
 vlastní změny skládám si do řady.[^6]  
 
-
 Bacha, je jak vosa, kryj si zrak,  
 avšak neodháněj, jinak promění se v drak.  
 Dám mu jméno, obrátí se v prach[^11]  
@@ -30,8 +28,8 @@ Proklouzne mi, bude ve mě řádit vrah?[^5]
 Měnit mojí osobnost je tvojí velkou zálibou,  
 oblékáš mě do své kůže pod záminkou zdánlivou.[^2]  
 Nech mě ujít jen pár kroků, pár informací nastřádám[^7].  
-mysli si, že máš mě v hrsti, o tvou moc tě okrádám[^3].  
-Zdá se ti, že není možné poznat přízrak ve tmě?  
+mysli si, že máš mě v hrsti, přesně tím tě okrádám[^3].  
+Zdá se ti, že není možné poznat přízrak ve tmě? 
 Však já jsem přízrak, pořádně se rozlij ve mě!
 
 [...]
@@ -40,7 +38,7 @@ Nechci navždy zešílet, nesmím se ani hnout.
 Před každičkým pohybem zda jsem to já rozhodnout.  
 Nechci jak vy dopadnout.[^13]  
 Z poloviny jsem jen tebou, z poloviny jsem to já,  
-bojím se, že premůžeš mě - představa hrozná...
+bojím se, že premůžeš mě - představa hrozná...  
 
 Jsem jak pánem celé říše,  
 mám chuť.. pocit, že neuhlídám zvíře.  
@@ -62,21 +60,20 @@ To majitel - démonův budoucí hostitel.
 
 Kdy to bude? Nemám tucha.  
 Zítra.. za pět let...  
-Netěším se, nepozná-li v sobě ducha,
-v jeho podání to bude strašný úlet.
-
+Netěším se, nepozná-li v sobě ducha,  
+v jeho podání to bude strašný úlet.  
 
 [^1]: patron, soudce  
   majitel - démonův budoucí hostitel
 [^2]: svíravou  
-[^3]: víš, zrovna tě okrádám/zrovinka..
-tajemství; to jediné; smysl
+[^3]: víš, zrovna tě okrádám
+o tajemství; o tvou moc tě okrádám; zrovinka
 
 [^4]:  Myslím na..; stojí mi za zády
 bude dávat rady, ponoukat nápady
 [^5]: ~~vrah~~ ach
 [^6]: jeho vlastnosti; ident; dohromady .
-[^7]: Nech mě si ji ošahat ; tvá tajemství
+[^7]: Nech mě si ji ošahat ; tvá tajemství, jaký jsi
 [^8]: našeptávej, ukaž mi kdo jsi / 
  už navždy budu vědět, že tam někde jsi.
 
