@@ -1,7 +1,10 @@
 __Polomrtví__
 
 Jsi člověk bez emocí,  
-ty mé ti jsou potravou.  
+ty mé ti jsou potravou 
+-zdá se, že snad jedinou.  
+Nepotřebuješ jídlo ani spánek.  
+Odmítám být tvůj dalamánek.  
 Snažím se svou bolest skrýt,  
 přesto je ti v ten správný moment líp...  
 tak jak proboha víš...!?!  
