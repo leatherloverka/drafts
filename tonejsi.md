@@ -11,7 +11,7 @@ pokrčí rameny, řekne já nic.
 Pohled na nevinnost těžko smažu z mysli,  
 probouzíš mou agresi snad všemi pěti smysly.  
 Ukaž svůj distanc, ten výraz odněkud znám,  
-usiluješ ať tvou zlost od vlastní nerozeznám.
+usiluješ ať tvou zlost[^1] od vlastní nerozeznám.
 
 __To nejsi II__  
 
@@ -31,3 +31,6 @@ Povidáš, že někdo jiný se žen bojí?
 Co kdybys mi řekl něco o té svojí...  
 Pověz mi prosím ještě jednou o své mamce,  
 podej mi tu emoci jak jehlu narkomance.  
+
+
+[^1]: tvůj příspěvek/podíl/polovinu
