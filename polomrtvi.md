@@ -3,11 +3,19 @@ __Polomrtví__
 Jsi člověk bez emocí,  
 ty mé ti jsou potravou  
 -&nbsp;zdá se, že snad jedinou.  
+Nepotřebuješ jídlo ani spaní.
+Co to bude dneska milostpaní?
+
+Potřebuješ se mnou nutně něco řešit.  
+Pojď, uděláme další čárku, mám jich plný sešit.  
+
 Nepotřebuješ jídlo ani spánek.  
 Nebudu tvůj dalamánek!  
 Snažím se svou bolest skrýt,  
 přesto je ti v ten správný moment líp...  
 tak jak proboha víš...!?!  
+V ten správný moment zklidníš se  a odcházíš.
+
 
 Připravuješ mě na život - to je tvůj výklad.  
 Za mě jen alibismus, ale co naplat.  
