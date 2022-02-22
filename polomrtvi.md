@@ -3,14 +3,14 @@ __Polomrtví__
 Jsi člověk bez emocí,  
 ty mé ti jsou potravou  
 -&nbsp;zdá se, že snad jedinou.  
-Nepotřebuješ jídlo ani spaní.
+Nepotřebuješ jídlo ani spaní.  
 Co to bude dneska milostpaní?
 
 Potřebuješ se mnou nutně něco řešit.  
 Pojď, uděláme další čárku, mám jich plný sešit.  
 
 Nepotřebuješ jídlo ani spánek.  
-Nebudu tvůj dalamánek!  
+Nechci být[^5] tvůj dalamánek!  
 Snažím se svou bolest skrýt,  
 přesto je ti v ten správný moment líp...  
 tak jak proboha víš...!?!  
@@ -52,4 +52,4 @@ sytíte mě svojí vlastní nestrávenou popravou.
 [^2]: Přehraj mi v hlavě
 [^3]: (jste) na mě tak fixovaný
 [^4]: Příjmu ji hned za svou vlastní
-
+[^5]: Nebudu
