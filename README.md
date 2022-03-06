@@ -11,4 +11,5 @@
 - [ ] [Polomrtví](polomrtvi.md)
 - [ ] [Guru](guru.md)
 - [ ] [Mozkomor](mozkomor.md)
+- [ ] [Ne] (nesnasim.md)
 
