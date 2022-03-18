@@ -7,7 +7,7 @@ Nepotřebuješ jídlo ani spaní.
 Co to bude dneska milostpaní?
 
 Potřebuješ se mnou nutně něco řešit.  
-Pojď, uděláme další čárku, mám jich plný sešit.  
+Pojď, uděláme další čárku, načnem druhý sešit.  
 
 Nepotřebuješ jídlo ani spánek.  
 Nechci být[^5] tvůj dalamánek!  
