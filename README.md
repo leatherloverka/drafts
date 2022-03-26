@@ -7,6 +7,7 @@
 - [X] [Polednice](polednice.md)
 - [ ] [Pád](pad.md)
 - [ ] [Dar](dar.md)
+- [ ] [1984](1984.md)
 - [ ] [Moon](moon.md)
 - [ ] [Polomrtví](polomrtvi.md)
 - [ ] [Guru](guru.md)
