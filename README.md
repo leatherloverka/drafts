@@ -3,7 +3,7 @@
 - [ ] [Strážce](strazce.md)
 - [ ] Bulhar
 - [x] [To nejsi II](tonejsi.md)
-- [ ] [IV](nonce.md)
+- [ ] [IV](iv.md)
 - [ ] [Tchýně](tchyne.md)
 - [X] [Polednice](polednice.md)
 - [ ] [Pád](pad.md)
