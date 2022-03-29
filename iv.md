@@ -9,4 +9,17 @@ Nechápu proč tento způsob volíš,
 proč ty moje pocity tak výrazně hnojis?  
 Proč se s malou mirou nespokojis?  
 
-Proč mi to samé nemůžeš říct slovy?!?
+
+A především nechápu, proč mi to samé nemůžeš říct slovy?!?
+
+--- 
+
+Slovy říkáš "tak to není",  
+čeká na mě potopení.  
+Nechápu tě, mám v tom zmatek,  
+zase`s mi do hlavy natek.
+
+Asi za trest. Proč mě takhle vymýváš?  
+Mám před tebou zatajit, to co mi sám povídáš?  
+Tomu vážně nerozumím, to je ale logika...  
+Jsem šílená opička, kroutí se jí očička.  
