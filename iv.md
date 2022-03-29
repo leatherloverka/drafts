@@ -22,4 +22,4 @@ zase`s mi do hlavy natek.
 Asi za trest. Proč mě takhle vymýváš?  
 Mám před tebou zatajit, to co mi sám povídáš?  
 Tomu vážně nerozumím, to je ale logika...  
-Jsem šílená opička, kroutí se jí očička.  
+Jsem šílená opička, točí se jí očička.  
