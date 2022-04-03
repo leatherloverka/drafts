@@ -14,4 +14,5 @@
 - [ ] [Guru](guru.md)
 - [ ] [Mozkomor](mozkomor.md)
 - [ ] [Ne](Nesnasim.md)
+- [ ] [Vzpomínka](vzpominka.md)
 
