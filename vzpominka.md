@@ -2,13 +2,13 @@ __Vzpomínka__
 
 Jako žena k dívce přistoupíte,  
 říkáte, že mě zítra přezkoušíte.  
-Na moment líbí se mi ženy.... 
+Na moment líbí se mi ženy....  
 Proč míchat(e) dvě téma dohromady?  
 
 Na chvíli oceňuji ženské linie...  
-Pak to zase mizí, zvláštní... asi empatie.
-Je to jak velmi krátká vzpomínka
-Snad to není ke zkoušce nutná podmínka?
+Pak to zase mizí, zvláštní... asi empatie.  
+Je to jak velmi krátká vzpomínka,  
+snad to není pro úspěch nutná podmínka?!  
 
 Omluvte mě, jestli se zaskočeně tvářím[^2].  
 Samozřejmě, že té důvěry si vážím.  
