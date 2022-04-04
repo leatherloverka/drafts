@@ -13,7 +13,7 @@ Nedělej to příliš často,
 je to vážně strašný.  
 
 Zdá se ti tak skutečná, já vím.  
-Až ucítím ji, hnedka pozdravím.  
+Až ucítím ji, v duchu pozdravím.  
 Snažíš se mě před ní chránit,  
 z mého úhlu mě chceš dávit.  
 
