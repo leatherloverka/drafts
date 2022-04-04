@@ -33,6 +33,8 @@ neříkejte, že je to pro úspěch zkoušky nutná podmínka...!?!
 Je mi líto, penis vážně nevlastním.  
 Pokud dovolíte, raději se připravím.  
 
+Koneckonců se mi to všechno stejně asi jenom zdálo.
+
 [^1]: Nebo to máte vážně zvláštní vychováni,  
 navádět mě tímto způsobem k milování.  
 
