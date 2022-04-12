@@ -39,3 +39,4 @@ Koneckonců se mi to všechno stejně asi jenom zdálo.
 navádět mě tímto způsobem k milování.  
 
 [^2]: Překvapuje mě způsob, jakým na mě nahlížíte  
+sympatie ano, ale už to trochu přeháníte...
