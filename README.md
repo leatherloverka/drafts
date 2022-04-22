@@ -15,5 +15,5 @@
 - [ ] [Mozkomor](mozkomor.md)
 - [ ] [Ne](Nesnasim.md)
 - [ ] [Vzpomínka](vzpominka.md)
-- [ ] [vztek](vztek.md)
+- [ ] [Vztek](vztek.md)
 
