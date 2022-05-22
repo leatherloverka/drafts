@@ -10,7 +10,7 @@ proč ty moje pocity tak výrazně hnojis?
 Proč se s malou mirou nespokojis?  
 
 
-A především nechápu, proč mi to samé nemůžeš říct slovy?!?
+A především nechápu, proč mi to samé[^1] nemůžeš říct slovy?!?
 
 --- 
 
@@ -22,4 +22,6 @@ zase`s mi do hlavy natek.
 Asi za trest. Proč mě takhle vymýváš?  
 Mám před tebou zatajit, to co mi sám povídáš?  
 Tomu vážně nerozumím, to je ale logika...  
-Jsem šílená opička, točí se jí očička.  
+Jsem šílená opička, točí se jí očička.
+  
+[^1]:Že všeho nejvíc.... Proč mi to o sobě...
