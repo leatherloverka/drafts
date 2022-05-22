@@ -30,7 +30,8 @@ Tak zakřesej, ať se to ve mě utáboří!
 Povidáš, že někdo jiný se žen bojí?  
 Co kdybys mi řekl něco o té svojí...  
 Pověz mi prosím ještě jednou o své mamce,  
-podej mi tu emoci jak jehlu narkomance.  
+podej mi tu emoci jak jehlu[^2] narkomance.  
 
 
 [^1]: tvůj příspěvek/podíl/polovinu
+[^2]: dopřej mi... jak šlehu.
