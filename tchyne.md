@@ -37,7 +37,7 @@ Jsou křivdy co se nepromíjí, to je jejich vzorek[^1].
 
 Už to chápu, já jsem ona, chceš se jí fakt zbavit.  
 Někdy mi to trochu trvá, můžeš začít slavit.  
-Odcházím, ty přesvědčen, že tě budu strašit.  
+Odcházím, ty přesvědčen, že tě hodlám strašit.  
 Nemám zájem, jen pochybuji, že tím tvé drama končí.
 
 Šup, spusť další iteraci.  
