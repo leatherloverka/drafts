@@ -1,7 +1,7 @@
 
 - [x] [To nejsi](tonejsi.md)
 - [ ] [Strážce](strazce.md)
-- [ ] Bulhar
+- [ ] [Bulhar](bulhar.md)
 - [x] [To nejsi II](tonejsi.md)
 - [ ] [IV](iv.md)
 - [ ] [Tchýně](tchyne.md)
