@@ -25,7 +25,7 @@ Je to síla, chci to zažíš zas.
 Chci cítit strach, jen nejde mi to snadno.  
 Vážně hledám, bez úspěchu, ve vodě stále chladno.  
 Pomoz mi, ať přihořívá, ať si třeba hoří..  
-Tak zakřesej, ať se to ve mě utáboří!  
+Tak zakřesej, ať se to ve mně utáboří!  
 
 Povidáš, že někdo jiný se žen bojí?  
 Co kdybys mi řekl něco o té svojí...  
