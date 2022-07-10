@@ -5,7 +5,7 @@ Naivně vás informuji a ocitám se za zdí.
 
 Stále to nechápu.. o co tady kráčí.
 Promluvím a čumák mi zas smáčí.
-Zatlačí mě pokaždé silněji a níž,
+Zatlačí mě pokaždé silněji a níž,  
 na delší dobu mi mou mysl zakalí.
 
 [..]
