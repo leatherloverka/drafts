@@ -14,7 +14,7 @@
 - [ ] [Guru](guru.md)
 - [ ] [Mozkomor](mozkomor.md)
 - [ ] [Ne](Nesnasim.md)
-- [ ] [Nestalo](Nestalose.md)
+- [ ] [Nestalo se](nestalose.md)
 - [ ] [Pravidla](pravidla.md)
 - [ ] [Vzpomínka](vzpominka.md)
 - [ ] [Vztek](vztek.md)
